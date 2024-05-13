@@ -85,4 +85,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| RESUME Video in youtube | I used the youtube video as abasis or guide for my code. | [trykolang.com](https://www.youtube.com/watch?v=lTqw_op6anw) |
