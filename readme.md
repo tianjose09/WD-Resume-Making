@@ -85,4 +85,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| RESUME Video in youtube | I used the youtube video as abasis or guide for my code. | [trykolang.com](https://www.youtube.com/watch?v=lTqw_op6anw) |
+|How to Create a Responsive Resume CV Website using HTML and CSS| RESUME Video in youtube, I used the youtube video as abasis or guide for my code. | (https://www.youtube.com/watch?v=lTqw_op6anw) |
